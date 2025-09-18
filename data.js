@@ -455,12 +455,13 @@ const characterData = [
   {
     id: 'feng_yi',
     name: "语妙",
-    title: "超级好妙",
-    desc: "你的好友语妙并非独行江湖",
-    tags: ["铁血i霖", "紫色韵味", "江湖好友"],
+    title: "与妙同行",
+    desc: "您的好友语妙并非独行江湖",
+    tags: ["霖开天门", "橘子桃", "江湖好友"],
     avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952469909_qdqqd_vyjhud.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952516541_qdqqd_aserb8.jpg"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216749654_qdqqd_lwqj1m.jpg",
+"https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216766744_qdqqd_nt422u.jpg"
     ]
   },
   {
@@ -668,52 +669,43 @@ const characterData = [
   
   {
     id: 'feng_yi',
-    name: "昵称35",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "魂殿牛牛 ",
+    title: "石榴声第一抗压王",
+    desc: "全服顶级陌刀 纯m",
+    tags: ["啤酒肚", "络腮胡 "],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216867574_qdqqd_sev2p5.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216796578_qdqqd_my1dcu.jpg"
     ]
   },
   {
     id: 'feng_yi',
-    name: "昵称36",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "争锋素世",
+    title: "石榴声战狂陌刀",
+    desc: "四通抗造威威小兵",
+    tags: ["亚撒西", "苦来兮苦", "只想着自己"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216939672_qdqqd_991g9z.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216922713_qdqqd_uwn34a.jpg"
     ]
   },
   {
     id: 'feng_yi',
-    name: "昵称37",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "少女漫",
+    title: "燕云皇帝",
+    desc: "可爱小漫加载中… ♡(⸝⸝› _ ‹⸝⸝)",
+    tags: ["I    ♡    漫     • ω<☆"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758217346127_qdqqd_autoip.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758217169134_qdqqd_8wj3gh.jpg"
     ]
   },
   {
     id: 'feng_yi',
-    name: "昵称38",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
+    name: "颜敬慕",
+    title: "漫の狗奴才",
+    desc: "漫皇万岁万岁万万岁",
+    tags: ["漫    の    奴     • ω<☆"],
     avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
     art: [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
