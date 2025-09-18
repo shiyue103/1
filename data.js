@@ -7,7 +7,7 @@ const organizationsData = [
     host: '索隆阿',
     time: '2025年9月19日',
     location: '索隆阿的船',
-    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758212903502_qdqqd_tvmosx.jpg'
+    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216235897_qdqqd_n4feor.jpg'
   },
   {
     id: 'ten_person_dungeon',
@@ -16,7 +16,7 @@ const organizationsData = [
     host: '索隆阿',
     time: '2025年9月19日',
     location: '索隆阿的船',
-    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758213144447_qdqqd_d73a93.jpg'
+    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216259451_qdqqd_itwggx.jpg'
   },
 {
     id: 'ten_person_dungeon',
@@ -25,7 +25,7 @@ const organizationsData = [
     host: '索隆阿',
     time: '2025年9月19日',
     location: '索隆阿的船',
-    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758213189355_qdqqd_2oplc3.jpg'
+    image: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216281018_qdqqd_juo46r.jpg'
   }
 ];
 
@@ -39,7 +39,7 @@ const demoVideos = [
   {
     id: '2',
     name: '背景视频',
-    video: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758213327639_qdqqd_eaq2ed.mp4'
+    video: 'https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758216517162_qdqqd_3jti1t.mp4'
   }
 ];
 
